@@ -18,4 +18,4 @@ Let's take a simple binary class classification example.
 
 ## Predictions using decision tree:
 
-    - Given a new sample (i.e., test sample) and corresponding feature vector, follow from the root of the decision tree according to the splitting criterion in each node until the leaf is reached. The label of the final leaf node is the predicted label for the test sample.  
+Given a new sample (i.e., test sample) and corresponding feature vector, follow from the root of the decision tree according to the splitting criterion in each node until the leaf is reached. The label of the final leaf node is the predicted label for the test sample.  
